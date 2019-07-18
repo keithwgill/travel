@@ -1,0 +1,162 @@
+{
+  "settings": {
+    "name": "Site-03-13_0020",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#d1e6cf",
+        "#222222"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 48,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Home page for Enterprise Travel and Tours",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "<b>Let Us Help You Choose the Right Luggage</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Inferior luggage can ruin your long-awaited vacation or trip. &nbsp;Consider the information below when selecting your luggage.&nbsp;</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the Best Luggage Here</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-18"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "1"
+          },
+          "title1": "<b>Airport Mobility</b>",
+          "caption1": "<b>Get 4-wheels because they:\n<br>\n<br>-  Can stand beside or in front of you  \n<br>- Can spin 360 degrees\n<br>-  Can navigate airplane aisles easily<br><br><a href=\"http://www.wtop.com\">Click here to buy the BEST 4-Wheel Luggage</a></b>",
+          "title2": "<b>Street Mobility</b>",
+          "caption2": "<b>Get 2-wheels because they:<br><br>- Are betterr streets, sidewalks and uneven surfaces\n<br>- Do not roll away on inclines\n<br><br><a href=\"http://www.cricinfo.com\">Click here to buy the BEST 2Wheel Luggage</a></b><br>",
+          "title3": "<b>Fabric</b>",
+          "caption3": "<b>When selecting fabric...\n<br>\n<br>- Select material with high denier (fabric weight) measurement <br>- Fabric can be torn but tends to be lighter<br><br><a href=\"http://www.wtop.com\">Click here to buy the BEST fabric Luggage</a></b><br>",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-19",
+          "_styles": {
+            "A": {
+              "color": "#0275d8"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b>Metal</b>",
+          "caption1": "<b>- Can’t be ripped or torn apart&nbsp;<br>- Tends to be heavier\n<br>- Is less expandable<br><a href=\"http://www.wtop.com\" class=\"text-primary\">Click here to buy the BEST 2Wheel Luggage</a></b><br>",
+          "title2": "<b>Zippers</b>",
+          "caption2": "<b>- Always select metal zippers\n<br>- Select YKK standard zippers<br>- YKK are standard zippers<br><a href=\"http://www.wtop.com\" class=\"text-primary\">Click here to buy the BEST 2Wheel Luggage</a></b><br>",
+          "title3": "<b>Features to Note</b>",
+          "caption3": "<b>- 2-Wheels occupy less space than 4-wheels \n<br>- Metal lasts much longer\n<br>- Metal often costs more<br><a href=\"http://www.wtop.com\" class=\"text-primary\">Click here to buy the BEST 2Wheel Luggage</a></b><br>",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1a",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
